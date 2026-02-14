@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/saxena-saksham">
+  <a href="https://linkedin.com/in/saxena-saksham">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:saxenasaksham859@gmail.com">
